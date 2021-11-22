@@ -1,0 +1,14 @@
+node_modules/
+artifacts/
+cache/
+.env*
+*.DS_Store*
+scripts/
+test/
+hardhat.config.js
+package-lock.json
+package.json
+.nvmrc
+.prettierrc.json
+.solhint.json
+contracts/
